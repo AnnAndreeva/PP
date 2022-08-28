@@ -1,0 +1,10 @@
+﻿LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Send@24 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Recv@28 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Bcast@20 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size@8 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank@8 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Wtime@0 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init@8 в функции _main.
+LR1_Andreeva_6413.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize@0 в функции _main.
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\Professional\Desktop\Учёба\4 курс\ПП\LR 1\LR1_Andreeva_6413\Debug\LR1_Andreeva_6413.exe : fatal error LNK1120: неразрешенных внешних элементов: 8

@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (LR 2 Andreeva 6413.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LR3_Andreeva_6413.c
+  LR_2_Andreeva_6413.c
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  LR 2 Andreeva 6413.vcxproj -> C:\Users\Professional\Desktop\Учёба\4 курс\ПП\LR 2\LR 2 Andreeva 6413\Release\LR_2_Andreeva_6413.exe
